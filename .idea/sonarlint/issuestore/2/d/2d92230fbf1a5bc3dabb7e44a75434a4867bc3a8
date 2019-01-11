@@ -1,0 +1,4 @@
+
+ysquid:S2068!"V'password' detected in this expression, review this potentially hard-coded credential.(¡ó³ıÿÿÿÿ8ÛÍ™Øú,
+squid:UselessImportCheck"QRemove this unused import 'org.glassfish.jersey.process.internal.RequestContext'.(°ÑØæùÿÿÿÿ8¶ñ­Øú,
+asquid:S1155">Use isEmpty() to check whether the collection is empty or not.(ùá¿ûÿÿÿÿ8ÏÛ‹ú,

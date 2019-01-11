@@ -1,0 +1,4 @@
+
+¤%squid:RedundantThrowsDeclarationCheck""nRemove the declaration of thrown exception 'javax.ws.rs.WebApplicationException' which is a runtime exception.(ŸËşÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(“×·ôşÿÿÿÿ

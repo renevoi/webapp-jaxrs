@@ -1,0 +1,7 @@
+
+U
+squid:S106)"9Replace this use of System.out or System.err by a logger.(æ÷‡Z8ÁÚ¼ûù,
+isquid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.(×—ÒÛ8Ê¼Áùù,
+nsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(Üû‹Àúÿÿÿÿ8ëÉ¼ùù,
+Psquid:S1481"-Remove this unused "message2" local variable.(¤ßÉÑûÿÿÿÿ8´ñ°ûù,
+Ksquid:S1481"-Remove this unused "message1" local variable.(ğãşà8ğòúù,

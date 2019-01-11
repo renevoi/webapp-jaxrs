@@ -1,0 +1,4 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(îæ•šÿÿÿÿÿ8½Ãõ‡ú,
+jsquid:UselessImportCheck":Remove this unused import 'javax.ws.rs.client.Invocation'.(Ìæ‚‚şÿÿÿÿ8 Ø‡ú,
